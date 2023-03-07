@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fo6BuPu0qWMz85+MubR55dupGK6pqsEjRxw6PB/2CYJPOrQYcNVo7IyAHNtxHcEba1y+M1/SAbL6kHnbs8YSYg==",
+  "success": true,
+  "projectFilePath": "D:\\Учебные материалы\\#Универ\\1-й курс\\Прога\\Peergrade\\Задание 6. Транспорт\\Transport\\EKRLib\\EKRLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ksenia2018\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ksenia2018\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ksenia2018\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
